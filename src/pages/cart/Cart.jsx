@@ -1,6 +1,6 @@
 import React from "react";
 import "./Cart.css";
-import CartCard from "../../components/cartCard/CartCard";
+import CartCard from "../../components/CartCard/CartCard";
 import { useSelector } from "react-redux";
 import ec from "../../assets/emptycart.png";
 
